@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Project 1",
+      "description": "Description of Project 1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLCdiKlLVWobWNcBz_1c4abjlzeB6C1oJxZw&s",
+      "id": "1"
+    },
+    {
+      "name": "Project 2",
+      "description": "Description of Project 2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLCdiKlLVWobWNcBz_1c4abjlzeB6C1oJxZw&s",
+      "id": "2"
+    },
+    {
+      "id": "b3d1",
+      "name": "sdsd",
+      "description": "sdsdsd",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"
+    },
+    {
+      "id": "3c43",
+      "name": "Mark",
+      "description": "sdsdsd",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/08/d6/ff08d683-1227-465e-7ca1-6cf42e23be09/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/1200x630wa.png"
+    }
+  ]
+}
